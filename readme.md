@@ -136,24 +136,145 @@ Here is the list of all the Surahs in the Quran along with their Arabic and Engl
 
 ## Surah Meanings
 
-- **Al-Fatiha (The Opening):** It is the opening chapter of the Quran and serves as a preface or introduction to the rest of the Quran. It emphasizes the oneness of Allah, seeking guidance, and the path of righteousness.
-- **Al-Baqarah (The Cow):** This Surah addresses various aspects of Islamic law, belief, and guidance for personal conduct. It also recounts the story of Prophet Adam and the Israelites.
-- **Aal-E-Imran (The Family of Imran):** Named after the family of Imran, which includes the mother of Maryam (Mary) and Prophet Isa (Jesus), this Surah discusses the importance of faith, obedience to Allah, and the mission of Prophets.
-- **An-Nisa (The Women):** This Surah deals with women's rights, inheritance laws, and guidelines for family life. It also discusses social justice and obligations towards orphans and the weak.
-- **Al-Ma'ida (The Table Spread):** It covers dietary laws, lawful and unlawful food, and regulations regarding contracts and oaths. It also emphasizes justice and avoidance of wrongdoing.
-- **Al-An'am (The Cattle):** Discusses the oneness of Allah, the concept of shirk (associating partners with Allah), and the importance of following the guidance of the Prophets.
-- **Al-A'raf (The Heights):** Addresses various stories of previous Prophets and their communities, emphasizing the consequences of disbelief and the rewards for righteousness.
-- **Al-Anfal (The Spoils of War):** Deals with the laws of warfare, distribution of spoils, and the importance of obedience and steadfastness in the face of adversity.
-- **At-Tawbah (The Repentance):** Focuses on repentance, forgiveness, and the consequences of hypocrisy. It also addresses the treaty obligations of the Muslims and the consequences of violating them.
-- **Yunus (Jonah):** Centers around the story of Prophet Yunus (Jonah) and his experience with his people. It highlights the themes of faith, patience, and the consequences of disobedience.
-- ...
+Al-Fatiha (The Opening): It is the opening chapter of the Quran and serves as a preface or introduction to the rest of the Quran. It emphasizes the oneness of Allah, seeking guidance, and the path of righteousness.
 
-Continue the meanings for each Surah in a similar manner.
+Al-Baqarah (The Cow): This Surah addresses various aspects of Islamic law, belief, and guidance for personal conduct. It also recounts the story of Prophet Adam and the Israelites.
+
+Aal-E-Imran (The Family of Imran): Named after the family of Imran, which includes the mother of Maryam (Mary) and Prophet Isa (Jesus), this Surah discusses the importance of faith, obedience to Allah, and the mission of Prophets.
+
+An-Nisa (The Women): This Surah deals with women's rights, inheritance laws, and guidelines for family life. It also discusses social justice and obligations towards orphans and the weak.
+
+Al-Ma'ida (The Table Spread): It covers dietary laws, lawful and unlawful food, and regulations regarding contracts and oaths. It also emphasizes justice and avoidance of wrongdoing.
+
+Al-An'am (The Cattle): Discusses the oneness of Allah, the concept of shirk (associating partners with Allah), and the importance of following the guidance of the Prophets.
+
+Al-A'raf (The Heights): Addresses various stories of previous Prophets and their communities, emphasizing the consequences of disbelief and the rewards for righteousness.
+
+Al-Anfal (The Spoils of War): Deals with the laws of warfare, distribution of spoils, and the importance of obedience and steadfastness in the face of adversity.
+
+At-Tawbah (The Repentance): Focuses on repentance, forgiveness, and the consequences of hypocrisy. It also addresses the treaty obligations of the Muslims and the consequences of violating them.
+
+Yunus (Jonah): Centers around the story of Prophet Yunus (Jonah) and his experience with his people. It highlights the themes of faith, patience, and the consequences of disobedience.
+
+Hud: This Surah revolves around the story of the Prophet Hud and his people, emphasizing the consequences of rejecting divine guidance and the importance of faith and perseverance.
+
+Yusuf: Narrates the story of Prophet Yusuf (Joseph), highlighting themes of patience, trust in Allah's plan, and the ultimate triumph of righteousness over adversity.
+
+Ar-Ra'd (The Thunder): Discusses the signs of Allah's existence and power as evident in nature, urging reflection and gratitude. It also emphasizes the consequences of disbelief and the rewards for faith.
+
+Ibrahim (Abraham): Centers around the story of Prophet Ibrahim (Abraham), his unwavering faith, and his struggles against idolatry. It emphasizes the importance of monotheism and submission to Allah.
+
+Al-Hijr (The Rocky Tract): Addresses the themes of warning and guidance, drawing lessons from previous nations and their rejection of Prophets. It emphasizes the consequences of disbelief and the rewards for righteousness.
+
+An-Nahl (The Bee): Discusses various signs of Allah's existence and power, including the creation of the heavens and the earth, as well as the blessings of sustenance provided to humanity. It emphasizes gratitude and faith.
+
+Al-Isra (The Night Journey): Narrates the miraculous night journey of the Prophet Muhammad (peace be upon him) from Mecca to Jerusalem and his ascension to the heavens. It emphasizes the power and mercy of Allah.
+
+Al-Kahf (The Cave): Centers around the story of the People of the Cave and their refuge in a cave to preserve their faith. It emphasizes the importance of faith, patience, and seeking refuge in Allah.
+
+Maryam (Mary): Named after Maryam (Mary), the mother of Prophet Isa (Jesus), this Surah discusses the miraculous birth of Isa, his Prophethood, and his message. It emphasizes monotheism and the importance of faith.
+
+Ta-Ha: Begins with mysterious Arabic letters and narrates the story of Prophet Musa (Moses) and his mission to free the Israelites from oppression. It emphasizes the power of faith, perseverance, and the consequences of disobedience.
+
+Al-Anbiya (The Prophets): Discusses the stories of various Prophets sent by Allah to guide their communities, emphasizing the inevitability of judgment and the consequences of disbelief.
+
+Al-Hajj (The Pilgrimage): Addresses the rituals and significance of the pilgrimage (Hajj) to the Kaaba in Mecca, emphasizing the unity of the Muslim community and the importance of sincere devotion to Allah.
+
+Al-Mu'minun (The Believers): Describes the characteristics and qualities of true believers, emphasizing faith, prayer, charity, and righteous conduct.
+
+An-Nur (The Light): Addresses various aspects of social conduct, including modesty, chastity, and the proper treatment of women. It also emphasizes the importance of light (guidance) in distinguishing right from wrong.
+
+Al-Furqan (The Criterion): Discusses the distinction between truth and falsehood, emphasizing the role of revelation (the Quran) as a criterion for distinguishing between them.
+
+Ash-Shu'ara (The Poets): Highlights the rejection of Prophets by their people and the consequences of disbelief. It also emphasizes the power and authority of Allah's message over worldly distractions.
+
+An-Naml (The Ant): Narrates the story of Prophet Sulaiman (Solomon) and his interaction with the Queen of Sheba and the ant. It emphasizes the importance of wisdom, gratitude, and submission to Allah.
+
+Al-Qasas (The Stories): Relates the stories of previous Prophets, including Musa (Moses) and Muhammad, and their struggles against disbelief and oppression. It emphasizes the importance of faith and perseverance.
+
+Al-Ankabut (The Spider): Draws parallels between the webs spun by spiders and the flimsy nature of false beliefs. It emphasizes the importance of steadfastness in faith and the inevitability of divine judgment.
+
+Ar-Rum (The Romans): Discusses the victory of the Romans over the Persians as a sign of Allah's power and the inevitability of His decree. It emphasizes the transient nature of worldly affairs and the certainty of resurrection.
+
+Luqman: Named after the wise man Luqman, this Surah offers advice and wisdom on various aspects of life, including faith, gratitude, and good conduct.
+
+As-Sajda (The Prostration): Discusses the inevitability of divine judgment and the consequences of disbelief. It emphasizes the importance of humility and submission to Allah.
+
+Al-Ahzab (The Confederates): Addresses the events surrounding the Battle of the Trench, emphasizing the importance of unity and steadfastness in the face of adversity.
+
+Saba (Sheba): Narrates the story of the people of Sheba and their rejection of divine guidance. It emphasizes the consequences of disbelief and the rewards for righteousness.
+
+Fatir (The Originator): Discusses the signs of Allah's existence and power as evident in creation. It emphasizes the importance of faith, gratitude, and worship.
+
+Ya-Sin: Begins with mysterious Arabic letters and discusses the themes of divine guidance, resurrection, and the consequences of disbelief. It emphasizes the importance of reflecting on the signs of Allah.
+
+As-Saffat (Those Ranged in Ranks): Describes the ranks of angels and their obedience to Allah's command. It also emphasizes the inevitability of divine judgment and the consequences of disbelief.
+
+Sad: Begins with the solitary Arabic letter "Sad" and narrates the stories of previous Prophets, including Dawood (David) and Sulaiman (Solomon). It emphasizes the importance of faith, perseverance, and obedience.
+
+Az-Zumar (The Groups): Discusses the fate of believers and disbelievers on the Day of Judgment. It emphasizes the importance of faith, repentance, and seeking Allah's forgiveness.
+
+Ghafir (The Forgiver): Discusses the signs of Allah's existence and power as evident in creation. It emphasizes the importance of faith, repentance, and seeking Allah's forgiveness.
+
+Fussilat (Explained in Detail): Addresses the themes of revelation, guidance, and the consequences of disbelief. It emphasizes the importance of reflecting on the Quran and following its guidance.
+
+Ash-Shura (Consultation): Emphasizes the importance of consultation (Shura) in decision-making and governance within the Muslim community. It also discusses the signs of Allah's existence and power.
+
+Az-Zukhruf (The Gold Adornments): Discusses the signs of Allah's existence and power as evident in creation. It emphasizes the transience of worldly wealth and the importance of faith and gratitude.
+
+Ad-Dukhan (The Smoke): Describes the punishment of the disbelievers on the Day of Judgment, including the descent of smoke as a sign of impending doom. It emphasizes the consequences of disbelief and the inevitability of divine judgment.
+
+Al-Jathiyah (The Kneeling): Discusses the themes of revelation, guidance, and the consequences of disbelief. It emphasizes the importance of reflecting on the signs of Allah and following His guidance.
+
+Al-Ahqaf (The Sand Dunes): Narrates the stories of previous Prophets and their interactions with their communities. It emphasizes the consequences of disbelief and the rewards for righteousness.
+
+Muhammad: Addresses the challenges faced by the early Muslim community in Medina and emphasizes the importance of faith, perseverance, and obedience to Allah and His Messenger.
+
+Al-Fath (The Victory): Celebrates the Treaty of Hudaybiyyah and the eventual conquest of Mecca by the Muslims. It emphasizes the importance of trust in Allah's plan and the inevitability of victory for the believers.
+
+Al-Hujurat (The Rooms): Addresses the etiquette and manners required within the Muslim community, emphasizing respect, unity, and avoidance of suspicion and backbiting.
+
+Qaf: Begins with the solitary Arabic letter "Qaf" and discusses the themes of resurrection, divine judgment, and the consequences of disbelief. It emphasizes the signs of Allah's existence and power.
+
+Adh-Dhariyat (The Winnowing Winds): Describes the signs of Allah's existence and power as evident in nature, including the winds that scatter dust. It emphasizes the importance of faith and reflection on the signs of Allah.
+
+At-Tur (The Mount): Discusses the themes of revelation, guidance, and divine judgment. It emphasizes the importance of faith, obedience, and reflection on the signs of Allah.
+
+An-Najm (The Star): Celebrates the miraculous night journey (Isra and Mi'raj) of the Prophet Muhammad (peace be upon him) and emphasizes the truthfulness of his message.
+
+Al-Qamar (The Moon): Discusses the signs of Allah's existence and power as evident in creation, including the splitting of the moon as a miraculous sign. It emphasizes the importance of faith and reflection on the signs of Allah.
+
+Ar-Rahman (The Most Merciful): Describes the numerous blessings and signs of Allah's mercy and benevolence. It emphasizes gratitude, faith, and reflection on the signs of Allah.
+
+Al-Waqi'ah (The Inevitable): Discusses the inevitability of divine judgment and the consequences for believers and disbelievers. It emphasizes the signs of Allah's existence and power as evident in creation.
+
+Al-Hadid (The Iron): Discusses the themes of faith, charity, and divine guidance. It emphasizes the importance of steadfastness and obedience to Allah.
+
+Al-Mujadila (The Pleading Woman): Addresses the issue of marital disputes and the importance of resolving them with justice and fairness. It emphasizes the importance of faith, patience, and reconciliation.
+
+Al-Hashr (The Gathering): Describes the events surrounding the expulsion of the Jewish tribe of Banu Nadir from Medina. It emphasizes the consequences of treachery and the importance of obedience to Allah and His Messenger.
+
+Al-Mumtahina (The Woman to be Examined): Addresses the issue of alliances with non-Muslims and emphasizes the importance of loyalty to the Muslim community. It also discusses the criteria for testing the sincerity of faith.
+
+As-Saff (The Ranks): Discusses the importance of unity and steadfastness in the face of adversity. It emphasizes the importance of faith, sacrifice, and obedience to Allah and His Messenger.
+
+Al-Jumu'ah (Friday): Emphasizes the significance of the Friday congregational prayer (Jumu'ah) and the importance of listening to the sermon. It also discusses the consequences of neglecting the remembrance of Allah.
+
+Al-Munafiqun (The Hypocrites): Addresses the characteristics and behavior of hypocrites within the Muslim community. It emphasizes the importance of sincerity, honesty, and steadfastness in faith.
+
+At-Taghabun (Mutual Disillusion): Discusses the themes of divine judgment, accountability, and the consequences of disbelief. It emphasizes the importance of faith, repentance, and seeking Allah's forgiveness.
+
+At-Talaq (Divorce): Addresses the regulations and procedures regarding divorce within Islam. It emphasizes justice, fairness, and the welfare of all parties involved.
+
+At-Tahrim (The Prohibition): Discusses the events surrounding the reprimand of the Prophet Muhammad (peace be upon him) for a marital dispute and emphasizes the importance of obedience to Allah and His Messenger.
+
+Al-Mulk (The Sovereignty): Describes the signs of Allah's existence and power as evident in creation. It emphasizes the importance of reflection, gratitude, and submission to Allah.
+
+Al-Qalam (The Pen): Discusses the importance of knowledge, wisdom, and guidance. It emphasizes the consequences of arrogance and the importance of humility before Allah.
 
 ## Surah Revelation Places
 
 - **Mecca:** Surahs revealed in Mecca generally emphasize the oneness of Allah, the Day of Judgment, and moral conduct. They often contain vivid descriptions of the rewards for the righteous and the punishment for the disbelievers.
 - **Medina:** Surahs revealed in Medina often focus on community laws, social justice, and guidance for the Muslim community. They also deal with specific incidents and challenges faced by the early Muslim community.
 
-Provide the revelation places for each Surah in a similar manner.
 
